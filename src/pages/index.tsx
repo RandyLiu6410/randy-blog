@@ -11,7 +11,6 @@ function HomepageHeader() {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {/* <TypingTypography items={typingItems} /> */}
           <TypeAnimation
             sequence={[
               // Same substring at the start will only be typed out once, initially
