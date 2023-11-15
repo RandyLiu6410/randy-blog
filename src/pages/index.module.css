@@ -12,6 +12,7 @@
   background-image: url('/img/banner.jpeg');
   background-position: center;
   background-size: cover;
+  background-color: #ffffff;
 }
 
 @media screen and (max-width: 996px) {
