@@ -13,9 +13,8 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           <TypeAnimation
             sequence={[
-              // Same substring at the start will only be typed out once, initially
               "Learn it.",
-              1000, // wait 1s before replacing "Mice" with "Hamsters"
+              1000,
               "Note it.",
               1000,
               "And share it.",
