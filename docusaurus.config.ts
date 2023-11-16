@@ -55,6 +55,9 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      defaultMode: 'dark',
+    },
     navbar: {
       title: 'Randy\'s blog',
       logo: {
@@ -90,11 +93,6 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-    },
-    algolia: {
-      indexName: 'randy_blog',
-      appId: process.env.ALGOLIA_APP_ID,
-      apiKey: process.env.ALGOLIA_APP_KEY,
     },
   } satisfies Preset.ThemeConfig,
 };
