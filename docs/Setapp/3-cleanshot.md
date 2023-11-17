@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 id: setapp-cleanshot
 title: CleanShot X
 ---
@@ -14,6 +14,6 @@ https://cleanshot.com/
 
 同時也有很多其他功能像是擷取文字、尺寸 preset等。
 
-雲端真的方便很多，像是寫這種部落格文章時，直接貼圖片連結即可，不需要耗 bundle 的容量！
+雲端真的方便很多，像是寫這種部落格文章時，直接貼圖片連結即可，非常方便！
 
 寫文章很適合聽 [Tip Toe - HYBS](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7?si=09ba186ccb564bb8)
