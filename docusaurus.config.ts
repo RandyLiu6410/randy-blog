@@ -29,6 +29,11 @@ const config: Config = {
   i18n: {
     defaultLocale: 'zh-TW',
     locales: ['zh-TW'],
+    localeConfigs: {
+      'zh-TW': {
+        htmlLang: 'zh-TW',
+      }
+    }
   },
 
   headTags: [
@@ -38,7 +43,7 @@ const config: Config = {
         rel: 'canonical',
         href: 'https://www.blog.randy-liu.com',
       },
-    }
+    },
   ],
 
   presets: [
@@ -116,7 +121,10 @@ const config: Config = {
       // 可选: 搜索页面的路径，默认启用(可用`false`禁用)
       searchPagePath: 'search',
 
-      contextualSearch: false
+      contextualSearch: true,
+      searchParameters: {
+        facetFilters: ['language:zh-TW']
+      }
     },
   } satisfies Preset.ThemeConfig,
 };
