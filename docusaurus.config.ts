@@ -119,7 +119,8 @@ const config: Config = {
       indexName: 'wwwrandy-liu',
 
       // 可选: 搜索页面的路径，默认启用(可用`false`禁用)
-      searchPagePath: 'search',
+      // TODO: fix search page not work
+      searchPagePath: false,
 
       contextualSearch: false,
     },
