@@ -121,10 +121,7 @@ const config: Config = {
       // 可选: 搜索页面的路径，默认启用(可用`false`禁用)
       searchPagePath: 'search',
 
-      contextualSearch: true,
-      searchParameters: {
-        facetFilters: ['language:zh-TW']
-      }
+      contextualSearch: false,
     },
   } satisfies Preset.ThemeConfig,
 };
