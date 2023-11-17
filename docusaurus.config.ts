@@ -31,9 +31,19 @@ const config: Config = {
     locales: ['zh-TW'],
   },
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'canonical',
+        href: 'https://www.blog.randy-liu.com',
+      },
+    }
+  ],
+
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       {
         docs: {
           sidebarPath: './sidebars.ts',
@@ -93,6 +103,18 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    algolia: {
+      // Algolia 提供的应用 ID
+      appId: process.env.ALGOLIA_APP_ID,
+
+      //  公开 API 密钥：提交它没有危险
+      apiKey: process.env.ALGOLIA_APP_KEY,
+
+      indexName: 'wwwrandy-liu',
+
+      // 可选: 搜索页面的路径，默认启用(可用`false`禁用)
+      searchPagePath: 'search',
     },
   } satisfies Preset.ThemeConfig,
 };
