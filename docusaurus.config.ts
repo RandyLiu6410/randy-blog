@@ -55,8 +55,8 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
         sitemap: {
-          changefreq: EnumChangefreq.WEEKLY,
-          priority: 0.5,
+          changefreq: EnumChangefreq.DAILY,
+          priority: 0.8,
           ignorePatterns: ['/**/tags/**', ],
           filename: 'sitemap.xml',
         },
