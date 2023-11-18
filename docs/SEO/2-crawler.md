@@ -54,7 +54,7 @@ Disallow: /admin
 
 **rel**
 ``` html
-<a rel="noindex" >管理員後台</a>
+<a rel="noindex" href="/admin" >管理員後台</a>
 ```
 
 今天獻上: [Falling - Matt Lv](https://open.spotify.com/track/0gmgtr39ooM5utYIz5C07Q?si=b7c3965846cb49ed)
