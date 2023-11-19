@@ -2,6 +2,7 @@
 sidebar_position: 7
 id: seo-noindex-nofollow
 title: noindex, nofollow
+tags: [seo]
 ---
 
 ## noindex
@@ -68,6 +69,7 @@ backlinks (反向連結) 指的是當今天在網域A裡的某個頁面裡有連
 <a rel="noindex, nofollow" href="https://example.com" >到example瞭解更多</a>
 ```
 
+<iframe src="https://open.spotify.com/embed/track/4zHC1zzSAV2xR7OlUqo2Oz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 References:
 - https://welly.tw/serp-rank-optimization/what-is-nofollow

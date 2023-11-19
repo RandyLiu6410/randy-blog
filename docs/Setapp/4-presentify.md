@@ -2,6 +2,7 @@
 sidebar_position: 4
 id: setapp-presentify
 title: Presentify
+tags: [tool]
 ---
 
 https://presentify.compzets.com/

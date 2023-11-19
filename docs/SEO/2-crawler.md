@@ -2,6 +2,7 @@
 sidebar_position: 2
 id: seo-crawler
 title: 檢索器
+tags: [seo]
 ---
 
 搜尋引擎是如何定義哪些網頁該怎麼呈現在 SERP 上是透過他們的爬蟲系統去盡可能爬各種網頁抓重要的資訊後呈現在搜尋頁面上，並透過裡面的內容不管是內部連結還是外部連結去建立索引，而各家搜尋引擎的爬蟲機制及建立索引演算法不盡相同，根據想打的國家市場會做不同的優化方式，
@@ -57,7 +58,8 @@ Disallow: /admin
 <a rel="noindex" href="/admin" >管理員後台</a>
 ```
 
-今天獻上: [Falling - Matt Lv](https://open.spotify.com/track/0gmgtr39ooM5utYIz5C07Q?si=b7c3965846cb49ed)
+今天獻上:
+<iframe src="https://open.spotify.com/embed/track/0gmgtr39ooM5utYIz5C07Q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 Reference:

@@ -2,6 +2,7 @@
 sidebar_position: 3
 id: seo-status-code
 title: Status Code 回應狀態碼
+tags: [seo]
 ---
 
 ## Soft 404

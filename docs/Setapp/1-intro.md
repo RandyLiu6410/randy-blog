@@ -2,6 +2,7 @@
 sidebar_position: 1
 id: setapp-intro
 title: Setapp Intro
+tags: [tool]
 ---
 
 # Introduction

@@ -2,6 +2,7 @@
 sidebar_position: 3
 id: setapp-cleanshot
 title: CleanShot X
+tags: [tool]
 ---
 
 https://cleanshot.com/
@@ -16,4 +17,5 @@ https://cleanshot.com/
 
 雲端真的方便很多，像是寫這種部落格文章時，直接貼圖片連結即可，非常方便！
 
-寫文章很適合聽 [Tip Toe - HYBS](https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7?si=09ba186ccb564bb8)
+寫文章很適合聽
+<iframe src="https://open.spotify.com/embed/track/0MJ5wKsPEeihONNfugHGy7?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

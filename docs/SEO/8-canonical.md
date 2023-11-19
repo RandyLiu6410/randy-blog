@@ -2,6 +2,7 @@
 sidebar_position: 8
 id: seo-canonical
 title: canonical
+tags: [seo]
 ---
 
 ## 標準化網址
