@@ -2,6 +2,7 @@
 sidebar_position: 5
 id: setapp-mosaic
 title: Mosaic
+tags: [tool]
 ---
 
 https://setapp.com/apps/mosaic

@@ -2,6 +2,7 @@
 sidebar_position: 9
 id: seo-backlinks
 title: Backlinks
+tags: [seo]
 ---
 
 ## Backlinks (反向連結)

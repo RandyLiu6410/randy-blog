@@ -2,6 +2,7 @@
 sidebar_position: 6
 id: setapp-dropzone
 title: Dropzone
+tags: [tool]
 ---
 
 https://aptonic.com/
