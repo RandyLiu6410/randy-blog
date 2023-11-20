@@ -65,6 +65,9 @@ const config: Config = {
           ignorePatterns: ['/**/tags/**', ],
           filename: 'sitemap.xml',
         },
+        googleTagManager: {
+          containerId: 'G-BCBB4QX892'
+        }
       } satisfies Preset.Options,
     ],
   ],
