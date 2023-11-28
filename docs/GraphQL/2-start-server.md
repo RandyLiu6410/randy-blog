@@ -18,6 +18,11 @@ $ nest new project-name
 
 > 原生用 Express 當作是預設的框架，另外也可以選擇用 Fastify
 
+安裝好相關的套件後，我們可以先到 `main.ts` 更改服務的阜號
+``` ts
+await app.listen(8080);
+```
+
 並透過 Apollo 當作是我們的 GraphQL server，另外也可以選用 Mercurius + Fastify
 
 ``` bash
@@ -72,6 +77,7 @@ import { ApolloDriver, ApolloDriverConfig } from '@nestjs/apollo';
     GraphQLModule.forRoot<ApolloDriverConfig>({
       driver: ApolloDriver,
       autoSchemaFile: 'schema.gql',
+      playground: true,
     }),
   ],
   controllers: [],
@@ -82,6 +88,7 @@ export class AppModule {}
 
 - `driver`: 可以使用 Apollo 或是 Mercurius
 - `autoSchemaFile`: 我們使用 Code First 開發方式，透過模塊去產出 schema，而這邊定義我們的 schema 檔案名稱
+- `playground`: 是否建置 GraphQL Playground 或是客製化 Playground 的頁面渲染設定
 
 此時我們會得到一個錯誤是:
 
