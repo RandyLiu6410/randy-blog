@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 id: graphql-init-db
 title: Init Database
 tags: [GraphQL, NestJS, backend]
