@@ -3,6 +3,7 @@ sidebar_position: 9
 id: seo-backlinks
 title: Backlinks
 tags: [seo]
+enableComments: true
 ---
 
 ## Backlinks (反向連結)

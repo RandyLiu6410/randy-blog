@@ -3,6 +3,7 @@ sidebar_position: 1
 id: interview-intro
 title: Intro
 tags: [interview]
+enableComments: true
 ---
 
 # Interview Introduction

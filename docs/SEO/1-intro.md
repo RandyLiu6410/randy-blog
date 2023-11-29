@@ -3,6 +3,7 @@ sidebar_position: 1
 id: seo-intro
 title: SEO Intro
 tags: [seo]
+enableComments: true
 ---
 
 # Introduction

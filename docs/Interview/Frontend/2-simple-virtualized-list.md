@@ -3,6 +3,7 @@ sidebar_position: 2
 id: interview-simple-virtualized-list
 title: Simple Virtualized List
 tags: [interview, frontend, virtualized-list]
+enableComments: true
 ---
 
 # Virtualized List 簡單實作

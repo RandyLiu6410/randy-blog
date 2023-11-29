@@ -3,6 +3,7 @@ sidebar_position: 4
 id: seo-robots-txt
 title: robots.txt
 tags: [seo]
+enableComments: true
 ---
 
 `robots.txt` 就像是跟搜尋引擎說**哪些網頁你可以爬**以及**哪些你不能爬**。

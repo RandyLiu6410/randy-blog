@@ -3,6 +3,7 @@ sidebar_position: 5
 id: setapp-mosaic
 title: Mosaic
 tags: [tool]
+enableComments: true
 ---
 
 https://setapp.com/apps/mosaic

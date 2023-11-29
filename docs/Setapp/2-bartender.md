@@ -3,6 +3,7 @@ sidebar_position: 2
 id: setapp-bartender
 title: Bartender
 tags: [tool]
+enableComments: true
 ---
 
 https://www.macbartender.com/Bartender5/
