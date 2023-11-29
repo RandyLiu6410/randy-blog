@@ -3,6 +3,7 @@ sidebar_position: 11
 id: seo-ctr
 title: CTR
 tags: [seo]
+enableComments: true
 ---
 
 ## Zero Click

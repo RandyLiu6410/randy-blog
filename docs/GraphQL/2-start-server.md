@@ -3,6 +3,7 @@ sidebar_position: 2
 id: graphql-start-server
 title: Start Server
 tags: [GraphQL, NestJS, backend]
+enableComments: true
 ---
 
 ## NestJS + Apollo

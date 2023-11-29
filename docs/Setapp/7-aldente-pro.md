@@ -3,6 +3,7 @@ sidebar_position: 7
 id: setapp-aldente-pro
 title: AlDente Pro
 tags: [tool]
+enableComments: true
 ---
 
 https://apphousekitchen.com/

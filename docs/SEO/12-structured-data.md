@@ -3,6 +3,7 @@ sidebar_position: 12
 id: seo-structured-data
 title: Structured Data
 tags: [seo]
+enableComments: true
 ---
 
 ## 結構化資訊

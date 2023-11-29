@@ -3,6 +3,7 @@ sidebar_position: 6
 id: setapp-dropzone
 title: Dropzone
 tags: [tool]
+enableComments: true
 ---
 
 https://aptonic.com/

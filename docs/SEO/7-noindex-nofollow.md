@@ -3,6 +3,7 @@ sidebar_position: 7
 id: seo-noindex-nofollow
 title: noindex, nofollow
 tags: [seo]
+enableComments: true
 ---
 
 ## noindex

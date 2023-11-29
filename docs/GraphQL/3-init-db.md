@@ -3,6 +3,7 @@ sidebar_position: 2
 id: graphql-init-db
 title: Init Database
 tags: [GraphQL, NestJS, backend]
+enableComments: true
 ---
 
 # 設置簡單的 SQLite 3 Database 串接至 GraphQL

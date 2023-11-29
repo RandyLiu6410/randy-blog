@@ -3,6 +3,7 @@ sidebar_position: 5
 id: seo-sitemap
 title: sitemap
 tags: [seo]
+enableComments: true
 ---
 
 ## Intro

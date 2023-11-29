@@ -3,6 +3,7 @@ sidebar_position: 1
 id: interview-frontend-autocomplete
 title: Autocomplete
 tags: [interview, frontend, data structure, React.js, trie]
+enableComments: true
 ---
 
 Autocomplete 應該是許多大公司滿常見的前端面試考題，不僅考**前端設計**同時也會考到**資料結構**，Autocomplete 常見的應用是 Google 搜尋的輸入欄，搜尋引擎會給你取多建議的結果，這就是 Autocomplete 的功用。

@@ -3,6 +3,7 @@ sidebar_position: 1
 id: graphql-intro
 title: Intro
 tags: [GraphQL, backend]
+enableComments: true
 ---
 
 # GraphQL Introduction

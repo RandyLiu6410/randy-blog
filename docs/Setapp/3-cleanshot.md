@@ -3,6 +3,7 @@ sidebar_position: 3
 id: setapp-cleanshot
 title: CleanShot X
 tags: [tool]
+enableComments: true
 ---
 
 https://cleanshot.com/
