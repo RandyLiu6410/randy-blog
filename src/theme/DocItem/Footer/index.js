@@ -4,6 +4,8 @@ import Footer from '@theme-original/DocItem/Footer';
 import GiscusComponent from '@site/src/components/GiscusComponent';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
+import styles from './footer.module.css'
+
 export default function FooterWrapper(props) {
   const isBrowser = useIsBrowser();
 
@@ -15,7 +17,9 @@ export default function FooterWrapper(props) {
     <>
       <Footer {...props} />
       {(enableComments && isBrowser) && (
-        <GiscusComponent />
+        <div className={styles.giscus}>
+          <GiscusComponent />
+        </div>
       )}
     </>
   );

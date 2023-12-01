@@ -75,11 +75,11 @@ https://example.com/dress?size=m&color=green // 尺寸為 M、顏色為綠色
 <!-- https://example.com -->
 <link rel="canonical" href="https://example.com" />
 <!-- 語系 en -->
-<link rel="alternate" href="https://example.com" />
+<link rel="alternate" hreflang="en" href="https://example.com" />
 <!-- 語系 zh-TW -->
-<link rel="alternate" href="https://example.com" />
+<link rel="alternate" hreflang="zh-TW" href="https://example.com" />
 <!-- 語系 ja -->
-<link rel="alternate" href="https://ja.example.co" />
+<link rel="alternate" hreflang="ja" href="https://ja.example.co" />
 ```
 - 行動版網頁為獨立網址時
 

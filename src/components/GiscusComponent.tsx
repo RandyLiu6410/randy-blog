@@ -6,7 +6,7 @@ export default function GiscusComponent() {
   const { colorMode } = useColorMode();
 
   return (
-    <Giscus    
+    <Giscus
       repo="RandyLiu6410/randy-blog"
       repoId="R_kgDOKt1Ufw"
       category="General"
