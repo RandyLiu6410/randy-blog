@@ -117,5 +117,10 @@ $ nest g resource user
 ## Next up
 接下來會針對 User 設計簡單的 schema 以及 orm 串接。
 
+
+---
+
+[Source code](https://github.com/RandyLiu6410/nestjs-graphql-sandbox/tree/main/nestjs-graphql-app1)
+
 ---
 <iframe src="https://open.spotify.com/embed/track/5RUyydoOehsN25zxdAppvs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
