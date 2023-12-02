@@ -301,4 +301,8 @@ mutation createUser($createUserInput: CreateUserInput!) {
 恭喜我們接通了 GraphQL 及 SQLite，並在中借助 TypeORM 讓我們輕鬆並彈性的在建立 `User` 介面時同時創建 `ORM Entity`, 以及 NestJS 的 `ValidationPipe` 與 `class-validator` 協助我們自動化生成參數型態的錯誤訊息，讓我們減去許多麻煩！
 
 ---
+
+[Source code](https://github.com/RandyLiu6410/nestjs-graphql-sandbox/tree/main/nestjs-graphql-app1)
+
+---
 <iframe src="https://open.spotify.com/embed/track/7hhmf0Ccj8aM8lSorLgmKQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
