@@ -5,7 +5,7 @@ title: Subscription
 tags: [GraphQL, NestJS, backend, websocket]
 enableComments: true
 ---
-# Subscription
+# GraphQL 整併 Websocket 達到實時拉取資料: Subscription
 
 相信大家一定很習慣使用 Websocket 去做 pub/sub pattern，讓 client 可以在第一時間知道 server 端通知的任何變動，包含資料創建、更改等，讓 client 的 UX 可以有大幅的提升。
 
