@@ -1,0 +1,11 @@
+{
+	"Insert IMG Tag": {
+	  "scope": "markdown",
+	  "prefix": "<img",
+	  "body": [
+		"<img src=\"$1\" loading=\"lazy\" />"
+	  ],
+	  "description": "Inserts an <img> tag with lazy loading"
+	}
+}
+  
